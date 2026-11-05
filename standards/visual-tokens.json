@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "source_read_date": "2026-11-05",
+  "colors": [
+    {
+      "name": "主色绿色",
+      "hex": "#00C27E",
+      "opacity": 1,
+      "source_node": "166:6559"
+    },
+    {
+      "name": "辅助强调色、文字按钮色",
+      "hex": "#5C6B92",
+      "opacity": 1,
+      "source_node": "166:6560"
+    },
+    {
+      "name": "红色",
+      "hex": "#F06D56",
+      "opacity": 1,
+      "source_node": "166:6561"
+    },
+    {
+      "name": "蓝色",
+      "hex": "#1485EE",
+      "opacity": 1,
+      "source_node": "166:6562"
+    },
+    {
+      "name": "橙色",
+      "hex": "#FA9D3B",
+      "opacity": 1,
+      "source_node": "166:6563"
+    },
+    {
+      "name": "灰色2",
+      "hex": "#8C8C8C",
+      "opacity": 1,
+      "source_node": "166:6564"
+    },
+    {
+      "name": "棕色",
+      "hex": "#A66838",
+      "opacity": 1,
+      "source_node": "166:6565"
+    },
+    {
+      "name": "黑色",
+      "hex": "#181818",
+      "opacity": 1,
+      "source_node": "166:6566"
+    },
+    {
+      "name": "黑色75%",
+      "hex": "#181818",
+      "opacity": 0.699999988079071,
+      "source_node": "166:6567"
+    },
+    {
+      "name": "黄色",
+      "hex": "#FFBB00",
+      "opacity": 1,
+      "source_node": "166:6568"
+    },
+    {
+      "name": "灰色4",
+      "hex": "#CCCCCC",
+      "opacity": 1,
+      "source_node": "166:6569"
+    },
+    {
+      "name": "灰色6",
+      "hex": "#F5F5F5",
+      "opacity": 1,
+      "source_node": "166:6570"
+    },
+    {
+      "name": "绿色-深",
+      "hex": "#00AE74",
+      "opacity": 1,
+      "source_node": "166:6571"
+    },
+    {
+      "name": "绿色-浅",
+      "hex": "#F0FBF7",
+      "opacity": 1,
+      "source_node": "166:6572"
+    },
+    {
+      "name": "红色-浅",
+      "hex": "#FEF5F3",
+      "opacity": 1,
+      "source_node": "166:6573"
+    },
+    {
+      "name": "红色-深",
+      "hex": "#CF654B",
+      "opacity": 1,
+      "source_node": "166:6574"
+    },
+    {
+      "name": "蓝色-浅",
+      "hex": "#E7F3FD",
+      "opacity": 1,
+      "source_node": "166:6575"
+    },
+    {
+      "name": "橙色-浅",
+      "hex": "#FFF6ED",
+      "opacity": 1,
+      "source_node": "166:6576"
+    },
+    {
+      "name": "灰色3",
+      "hex": "#B2B2B2",
+      "opacity": 1,
+      "source_node": "166:6577"
+    },
+    {
+      "name": "棕色-浅",
+      "hex": "#F9EEE5",
+      "opacity": 1,
+      "source_node": "166:6578"
+    },
+    {
+      "name": "灰色1",
+      "hex": "#6F6F6F",
+      "opacity": 1,
+      "source_node": "166:6579"
+    },
+    {
+      "name": "黄色-浅",
+      "hex": "#FFF9E8",
+      "opacity": 1,
+      "source_node": "166:6580"
+    },
+    {
+      "name": "灰色5",
+      "hex": "#E9E9E9",
+      "opacity": 1,
+      "source_node": "166:6581"
+    }
+  ],
+  "fonts": {
+    "chinese": "PingFang",
+    "standalone_numbers": "MiSans",
+    "mixed_chinese_numbers": "PingFang",
+    "screen_sizes": {
+      "recommended_max": 3,
+      "maximum": 4
+    },
+    "tiers": [
+      {
+        "size": 40,
+        "weight": "Semibold",
+        "role": "特殊场景标题1"
+      },
+      {
+        "size": 30,
+        "weight": "Semibold",
+        "role": "特殊场景标题2"
+      },
+      {
+        "size": 24,
+        "weight": "Semibold",
+        "role": "标题1"
+      },
+      {
+        "size": 20,
+        "weight": "Semibold",
+        "role": "标题2"
+      },
+      {
+        "size": 18,
+        "weight": "Semibold/Medium",
+        "role": "标题3"
+      },
+      {
+        "size": 16,
+        "weight": "Semibold/Medium",
+        "role": "标题4（常用）"
+      },
+      {
+        "size": 14,
+        "weight": "Medium/Regular",
+        "role": "正文/副标题"
+      },
+      {
+        "size": 12,
+        "weight": "Regular",
+        "role": "正文/副标题"
+      },
+      {
+        "size": 10,
+        "weight": "Regular",
+        "role": "提示说明"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "height_text": "400px以上",
+      "radius": 32,
+      "status": "conflict"
+    },
+    {
+      "height_text": "180px–400px",
+      "radius": 26,
+      "status": "active"
+    },
+    {
+      "height_text": "80px–180px",
+      "radius": 22,
+      "status": "conflict"
+    },
+    {
+      "height_text": "50px–80px",
+      "radius": 16,
+      "status": "active"
+    },
+    {
+      "height_text": "36px–50px",
+      "radius": 12,
+      "status": "active"
+    },
+    {
+      "height_text": "24px–36px",
+      "radius": 8,
+      "status": "active"
+    },
+    {
+      "height_text": "24px以下",
+      "radius": 6,
+      "status": "active"
+    }
+  ],
+  "shadows": {
+    "large": {
+      "x": 0,
+      "y": 4,
+      "blur": 40,
+      "color": "#181818",
+      "opacity": 0.16
+    },
+    "small": {
+      "x": 0,
+      "y": 2,
+      "blur": 40,
+      "color": "#181818",
+      "opacity": 0.1
+    },
+    "close": {
+      "x": 0,
+      "y": 0,
+      "blur": 40,
+      "color": "#181818",
+      "opacity": 0.1
+    }
+  },
+  "strokes": {
+    "divider": 0.33,
+    "without_shadow": 0.66,
+    "with_shadow": 0.33
+  },
+  "spacing": {
+    "common": [
+      30,
+      20,
+      16,
+      14,
+      12,
+      10,
+      8
+    ],
+    "less_common": [
+      40,
+      26,
+      24,
+      22
+    ]
+  },
+  "notes": [
+    "JSON是数值转录，不能把图层样例任意属性提升为规则。",
+    "临界高度相邻区间都包含的端点不自行裁决。",
+    "固定页面边距要求继续暂缓。",
+    "有投影重点卡片描边与飞书0.35px存在来源冲突，相关项暂不判定。"
+  ]
+}

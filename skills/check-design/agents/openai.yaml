@@ -1,0 +1,4 @@
+interface:
+  display_name: "check-design"
+  short_description: "以 CLEAR 分析设计，核对规范与 PRD，通过 API 评论指定问题"
+  default_prompt: "请使用 $check-design 检查我提供的设计稿及对应 PRD，先输出 CLEAR 法则分析，再分别输出设计检查清单与 PRD 对照，通过 Figma 官方 REST API 将 CLEAR 与设计检查的「不符合」及 PRD 对照的「明确不一致」「设计覆盖缺项」评论到 Figma 对应位置，并保留 三个部分各自的四列汇总表；没有 PRD 时输出 CLEAR 和设计检查清单。"

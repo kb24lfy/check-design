@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "version": "1.0.0",
+  "source_read_date": "2026-11-05",
+  "files": [
+    {
+      "path": "standards/assets/166-6498.png",
+      "sha256": "26fc8f62f338bb863870c3a88567fc2b1a5f348ceefe89f41034ed22f88369ca"
+    },
+    {
+      "path": "standards/assets/166-6582.png",
+      "sha256": "a756d029876338ba942436694d3d561cb265cd71b17180d30131adb7adade3e6"
+    },
+    {
+      "path": "standards/assets/166-6630.png",
+      "sha256": "329b08bc6960f0107f84210fb0c38606d65e348d92616f24ce6bb3bce947205f"
+    },
+    {
+      "path": "standards/assets/166-6752.png",
+      "sha256": "b581c807715ead7f637e24d0b44d1b0f5618cb795f766757577f19862b15e937"
+    },
+    {
+      "path": "standards/clear.md",
+      "sha256": "8b2a5896eb251a14a16ac6ee727adbf28abd06e6c7f40bbfa32d70e4998ddefb"
+    },
+    {
+      "path": "standards/design-rules.md",
+      "sha256": "d331f919de6ca0814c678643f7bece09cf594410cc24d79ecdb0d2c6792b191e"
+    },
+    {
+      "path": "standards/visual-tokens.json",
+      "sha256": "d922538b28a8b2d3f49a1c67e419e97abf6e7f21dc5b0affffbe0b665d0fa7b6"
+    },
+    {
+      "path": "standards/visual.md",
+      "sha256": "f456c0a5d62baa4b490622253f4ba5c03d6634d1b0b0bebab34c765551543ef6"
+    }
+  ]
+}
